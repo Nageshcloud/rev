@@ -33,6 +33,9 @@ variable "appserver_info" {
      public_key_path     = string
     })
     default = {
+        
+        
+        hgakehgowuhguowhgouhwojghowhgouwh
         key_name           = "my_keypair"
      public_key_path       = "~/.ssh/id_rsa.pub"
      count                 = 2
